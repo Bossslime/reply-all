@@ -1,0 +1,29 @@
+{
+  "name": "reply_all",
+  "version": "1.0.0",
+  "description": "Add reply functionality to your network messages.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bossslime/reply-all"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "COPYING.txt"
+  ],
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "tcp",
+    "udp",
+    "socket-io",
+    "network",
+    "reply",
+    "tcp-server",
+    "tcp-client",
+    "udp-server",
+    "udp-client",
+    "protocol"
+    ]
+}
