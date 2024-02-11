@@ -10,7 +10,7 @@ client.connect(3000, '127.0.0.1', function() {
         console.log(data);
     });
 
-    sock.on('data', (data) => {
+    sock.on('data', (data, reply) => {
         console.log(data);
     });
 });
